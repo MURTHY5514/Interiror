@@ -1,0 +1,54 @@
+{
+  "name": "Primopiano cucine",
+  "short_name": "Primopiano cucine",
+  "description": "Scopri le cucine moderne negli showroom di Padova, Brescia e Milano.",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_64x64.89c0ee.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_120x120.89c0ee.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_144x144.89c0ee.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_152x152.89c0ee.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.89c0ee.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_384x384.89c0ee.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.89c0ee.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#e0ded0",
+  "theme_color": "#151514",
+  "lang": "en"
+}
